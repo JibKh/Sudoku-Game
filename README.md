@@ -14,7 +14,7 @@ In the next update a random board will be created and the backtracking algorithm
 
 ## HOW TO START 
 Unzip the folder 'Sudoku'
-To play the game, open the folder 'output and then the 'main' file and the game will automatically restart
+To play the game, open the folder 'output' and then the 'main' file and the game will automatically restart
 
 
 ## HOW TO PLAY
