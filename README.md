@@ -6,7 +6,7 @@ Welcome to SUDOKU by Jibran Khalil :)
 2) Save game button
 3) Random board generation
 
--- ABOUT --
+-- ABOUT --//
 This game implements pygame to create the board alongside its design.
 A single board has currently been selected and a backtracking algorithm has been used to solve that board. The backtracking algorithm can solve any type of board.
 In the next update a random board will be created and the backtracking algorithm will solve the board.
